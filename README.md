@@ -69,3 +69,21 @@ eureka:
 
 ## 如法炮制像创建Order Service那样创建下游服务Stock Service
 
+## Stimulate Order Service cluster
+<img width="625" height="242" alt="image" src="https://github.com/user-attachments/assets/2a03b1c3-02a9-4967-ac63-90ee89995783" />
+
+copy order service configuration
+<img width="809" height="688" alt="image" src="https://github.com/user-attachments/assets/9f42c4e0-f863-4c5a-9788-725a0faee7b4" />
+
+<img width="799" height="543" alt="image" src="https://github.com/user-attachments/assets/646ccc7b-d82b-4708-8fdb-6c739e19e0ca" />
+
+<img width="636" height="625" alt="image" src="https://github.com/user-attachments/assets/e72013c0-d0af-4a7a-8e5d-e08d8b854052" />
+<img width="790" height="561" alt="image" src="https://github.com/user-attachments/assets/b147ba46-bf40-462d-8d33-60ca27dc43fa" />
+<img width="796" height="675" alt="image" src="https://github.com/user-attachments/assets/79e8836e-814c-42b0-9fa5-ce1e00fc3329" />
+
+### there are two order services are registered with this eureka server
+<img width="1241" height="780" alt="image" src="https://github.com/user-attachments/assets/d7734fe8-041b-464d-a5d3-0fb70d75d0e1" />
+
+
+
+
