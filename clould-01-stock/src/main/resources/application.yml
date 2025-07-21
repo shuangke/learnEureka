@@ -1,0 +1,9 @@
+server:
+  port: 8002
+spring:
+  application:
+    name: stock-service
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/ # 把这个服务注册到指定的eureka server上
