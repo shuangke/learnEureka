@@ -38,3 +38,6 @@ eureka:
     }
 
    ```
+4. check the eureka dashboard
+   <img width="1421" height="842" alt="image" src="https://github.com/user-attachments/assets/b9518a02-a8d5-41d5-80a1-52daab364f8a" />
+
